@@ -1,81 +1,13 @@
-body {
-font-family: 'Raleway', sans-serif;
-margin: 0 auto;
-width:50%;
-}
-h1, h2, h3 {
-color:brown;
-}
-
-a:link, a:visited {
-text-decoration:none;
-color:brown;
-font-weight:bold;
-}
-a:hover {
-color:black;
-}
-nav ul {
-list-style-type:none;
-padding:0;
-}
-nav li {
-display:inline;
-float:left;
-}
-nav a:link, nav a:visited {
-background-color:grey;
-color:white;
-display:block;
-width:190px;
-text-align:center;
-padding: 10px 0;
-}
-nav a:hover {
-background-color:black;
-}
-aside {
-width:280px;
-float:right;
-background-color: tan;
-text-align:center;
-font-weight:bold;
-padding:20px;
-margin-left:20px;
-}
-.photo-left {
-float:left;
-margin-right:20px;
-}
-.photo-right {
-float:right;
-margin-left:20px;
-}
-header {
-background-image: url("images/pozadina.jpg");
-height:100px;
-margin-bottom:70px;
-background-size: 980px 95px;
-}
-header h1 {
-color:whitesmoke;
-margin-left:auto;
-margin-top:auto;
-font-size:50px;
-text-align: center;
-}
-footer {
-margin: 40px 0;
-}
-footer nav a:link, footer nav a:visited {
-color:gray;
-text-decoration:none;
-display:block;
-width:160px;
-text-align:center;
-background-color:white;
-}
-footer nav a:hover {
-color:black;
-}
-
+body{font-family:Raleway,sans-serif;margin:0
+auto;width:50%}h1,h2,h3{color:brown}a:link,a:visited{text-
+decoration:none;color:brown;font-weight:700}a:hover{color:#000}nav ul{list-style-
+type:none;padding:0}nav li{display:inline;float:left}nav a:link,nav a:visited{background-
+color:grey;color:#fff;display:block;width:190px;text-align:center;padding:10px 0}nav
+a:hover{background-color:#000}aside{width:280px;float:right;background-color:tan;text-
+align:center;font-weight:700;padding:20px;margin-left:20px}.photo-left{float:left;margin-
+right:20px}.photo-right{float:right;margin-left:20px}header{background-
+image:url(images/pozadina.jpg);height:100px;margin-bottom:70px;background-size:980px
+95px}header h1{color:#f5f5f5;margin-left:auto;margin-top:auto;font-size:50px;text-
+align:center}footer{margin:40px 0}footer nav a:link,footer nav a:visited{color:gray;text-
+decoration:none;display:block;width:160px;text-align:center;background-color:#fff}footer
+nav a:hover{color:#000}
